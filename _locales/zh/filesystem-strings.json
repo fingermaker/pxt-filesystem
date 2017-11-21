@@ -1,0 +1,23 @@
+{
+  "BBMotor.Left|block": "左",
+  "BBMotor.Right|block": "右",
+  "BBMotor.All|block": "全部",
+  "BBLineSensor.Left|block": "左",
+  "BBLineSensor.Right|block": "右",
+  "BBLightSensor.Left|block": "左",
+  "BBLightSensor.Right|block": "右",
+  "files.appendLine|block": "在文件 %filename|添加一行新文字 %text",
+  "files.appendString|block": "马达 %motor|速度 %speed",
+  "files.buzz|block": "蜂鸣器音量 %flag",
+  "files.readLine|block": "巡线传感器（有或者没有） %sensor",
+  "files.readLight|block": "地面灰度 %sensor",
+  "files.neoSetColor|block": "设置LED颜色为 %rgb=neopixel_colors",
+  "files.neoSetPixelColor|block": "设置LED编号 %offset|的颜色为 %rgb=neopixel_colors",
+  "files.neoShow|block": "LED显示",
+  "files.neoClear|block": "LED清除",
+  "files.neoRainbow|block": "设置LED为彩虹模式",
+  "files.neoShift|block": "LED走马灯",
+  "files.neoRotate|block": "LED循环显示",
+  "files.neoBrightness|block": "设置LED功率 %brightness",
+  "files.sonar|block": "超声波的值 %unit "
+}
