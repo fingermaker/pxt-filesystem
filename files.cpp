@@ -39,7 +39,7 @@ void initFileSystem()
     * @param filename file name, eg: "output.txt"
     * @param text the string to append to the end of the file
     */
-//% blockId="files_append_line" block="file %filename|append line %text"
+//% blockId="files_append_line" block="给文件 %filename|新增一行文本 %text"
 //% blockExternalInputs=1 weight=90 blockGap=8
 void appendLine(StringData *filename, StringData *text)
 {
