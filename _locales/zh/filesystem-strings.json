@@ -6,7 +6,7 @@
   "BBLineSensor.Right|block": "右",
   "BBLightSensor.Left|block": "左",
   "BBLightSensor.Right|block": "右",
-  "files.appendLine|block": "在文件 %filename|添加一行新文字 %text",
+  "files::appendLine|block": "在文件 %filename|添加一行新文字 %text",
   "files.appendString|block": "马达 %motor|速度 %speed",
   "files.buzz|block": "蜂鸣器音量 %flag",
   "files.readLine|block": "巡线传感器（有或者没有） %sensor",
